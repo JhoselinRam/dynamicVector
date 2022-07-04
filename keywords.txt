@@ -1,0 +1,14 @@
+##############################################
+##  Keywords for the dynamicVector library  ##
+##############################################
+
+################## Datatypes #################
+dynamicVector   KEYWORD1
+
+####### Methods and functions #######
+	
+pushIn  KEYWORD2
+remove  KETWORD2
+resize  KEYWORD2
+getSize KEYWORD2 
+
